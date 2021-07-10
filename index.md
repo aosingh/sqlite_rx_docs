@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/aosingh/sqlite_rx_docs/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### sqlite-rx
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SQLite is a lightweight database written in C. The Python programming language has in-built support to interact with the database (locally) which is either stored on disk or in memory.
+
+
 
 ```markdown
 Syntax highlighted code block
